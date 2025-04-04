@@ -1,33 +1,83 @@
 <h1 align="center">Hi 👋, I'm Keshvi</h1>
-<h3 align="center">Welcome to my GitHub! I'm a passionate developer exploring the world of coding, building projects, and learning every day. I enjoy working on problem-solving, and creating tools that make life easier.</h3>
 
-- 🔭 Currently working: **Personal portfolio and small utility projects.**
+<h3 align="center">🚀 Welcome to my GitHub! I'm a passionate developer exploring the world of coding, building projects, and learning every day. I enjoy problem-solving and creating tools that make life easier.</h3>
 
-- 🌱 I’m currently learning: **Artificial Intelligence, Python, Java, and more!**
+---
 
-- 📝 I regularly write articles on [https://codeforces.com/profile/Kesh12](https://codeforces.com/profile/Kesh12)
+### 🔭 Currently Working On:
+- Personal portfolio and small utility projects
 
-- 📫 How to reach me **keshviagg20@gmail.com**
+### 🌱 Currently Learning:
+- Artificial Intelligence, Python, Java, and more!
 
-- ⚡ Fun fact **I love turning ideas into code and coffee into productivity.**
+### 📝 Articles & Writings:
+- I regularly write on: [Codeforces – Kesh12](https://codeforces.com/profile/Kesh12)
 
-<h3 align="left">Connect with me:</h3>
+### 📫 Contact Me:
+- **Email:** keshviagg20@gmail.com
+
+### ⚡ Fun Fact:
+- I love turning ideas into code and coffee into productivity ☕💻
+
+---
+
+### 🌐 Connect with me:
+
 <p align="left">
-<a href="https://twitter.com/keshviagg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keshviagg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keshvi-agarwal-b48a53258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshvi-agarwal-b48a53258" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keshviagg20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshviagg20" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kesh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kesh12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/o2wptuo4ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="o2wptuo4ti" height="30" width="40" /></a>
+  <a href="https://twitter.com/keshviagg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/keshvi-agarwal-b48a53258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/keshviagg20" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/kesh12" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://leetcode.com/o2wptuo4ti" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/keshviagarwal20"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="keshviagarwal20" /></a></p><br><br>
+### 🛠️ Languages and Tools:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshviagg12&show_icons=true&locale=en&layout=compact" alt="keshviagg12" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshviagg12&show_icons=true&locale=en" alt="keshviagg12" /></p>
+---
+
+### ☕ Support Me:
+
+<p>
+  <a href="https://www.buymeacoffee.com/keshviagarwal20" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+### 🧩 Featured Projects
+
+- 🚑 [**MedVault**](https://github.com/keshviagg12/MedVault): A secure and user-friendly medical history platform empowering patients and doctors to make informed decisions.
+- 🌱 [**Bhumi - Soil Testing App**](https://github.com/keshviagg12/Bhumi-Soil-Testing-App): Helps Indian farmers by connecting them with nearby soil testing labs, recommending crops via ML, and supporting 32 regional languages.
+- 🧠 [**Diabetic Retinopathy Detection**](https://github.com/keshviagg12/Diabetic-Retinopathy-Detection): A deep learning-based project for detecting diabetic retinopathy using MobileNet and CNNs.
+- 🧭 [**Infobot: Campus Navigation Chatbot**](https://github.com/keshviagg12/Infobot-Admission-Chatbot): AI-powered chatbot to assist students with technical admission-related queries in Rajasthan.
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshviagg12&show_icons=true&theme=tokyonight" alt="Keshvi GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshviagg12&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+
+
 
 
