@@ -1,64 +1,59 @@
-<h1 align="center">Hi 👋, I'm Keshvi</h1>
-<h3 align="center">🚀 Passionate Developer | AI & ML Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Keshvi Agarwal</h1>
+<h3 align="center">⚡ VLSI Enthusiast | Digital Design | Embedded Systems | Future Chip Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Welcome+to+my+GitHub!;I+love+turning+ideas+into+code+%F0%9F%92%BB;Always+learning+%F0%9F%93%9A+Building+cool+projects+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=500&lines=Designing+the+Future+of+Silicon+Chips;Digital+Design+%7C+VLSI+%7C+Verification;Turning+Logic+into+Reality+⚡;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 </p>
+
+---
+
+## 🧠 About Me
+- 🎓 B.Tech in **Electronics & Communication Engineering (ECE)**
+- 🔬 Passionate about **VLSI Design, Digital Electronics & Semiconductor Technology**
+- ⚙️ Skilled in bridging **Hardware + Software (AI/ML + Embedded Systems)**
+- 🎯 Goal: To contribute in **Chip Design / Design Verification / Semiconductor Industry**
+- 📈 Strong problem-solving mindset with hands-on project experience
 
 ---
 
 ## 🔭 Currently Working On
-- 🚧 Personal Portfolio  
-- 🔧 Small Utility Projects
+- ⚡ VLSI Design & Verification Concepts  
+- 🔧 RTL Design & Digital Circuits  
+- 📡 Embedded Systems Projects  
+
+---
 
 ## 🌱 Currently Learning
-- 🤖 Artificial Intelligence  
-- 🐍 Python  
-- ☕ Java  
-- 🔎 and much more...
+- 💻 Verilog / SystemVerilog  
+- 🧠 Digital Design & Computer Architecture  
+- 🔍 ASIC Design Flow (RTL → GDSII)  
+- ⚙️ FPGA & Simulation Tools  
+- 🐍 Python for Automation & Verification  
 
 ---
 
-## ✍️ Articles & Writings
-- 💡 [Codeforces – Kesh12](https://codeforces.com/profile/Kesh12)
+## 🛠️ Core Skills
 
-## 📫 Contact Me
-- 📧 Email: **keshviagg20@gmail.com**
+### ⚡ VLSI & Electronics
+- Digital Electronics  
+- CMOS Basics  
+- RTL Design  
+- Functional Verification (Basics)  
+- Embedded Systems  
 
-## ⚡ Fun Fact
-- I turn ☕ into code and bugs into features!
+### 💻 Programming
+- Python 🐍  
+- C / Embedded C  
+- Java ☕  
 
----
-
-## 🌐 Connect with Me
-
+### 🧰 Tools & Technologies
 <p align="center">
-  <a href="https://twitter.com/keshviagg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/keshvi-agarwal-b48a53258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/keshviagg20" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/kesh12" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://leetcode.com/o2wptuo4ti" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40"/>
+  <img src="https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-8E24AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Xilinx-FPGA-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-AI%2FML-yellow?style=for-the-badge"/>
 </p>
 
 ---
@@ -67,10 +62,10 @@
 
 | Project | Description |
 |--------|-------------|
-| 🚑 [**MedVault**](https://github.com/keshviagg12/MedVault) | A secure platform for managing medical history, empowering patients and doctors with informed decisions. |
-| 🌱 [**Bhumi - Soil Testing App**](https://github.com/keshviagg12/Bhumi-Soil-Testing-App) | A smart assistant for farmers offering ML-based crop suggestions and soil lab connectivity in 32 languages. |
-| 🧠 [**Diabetic Retinopathy Detection**](https://github.com/keshviagg12/Diabetic-Retinopathy-Detection) | Deep learning-powered detection using CNN & MobileNet for early diagnosis of diabetic retinopathy. |
-| 🧭 [**Infobot - Campus Chatbot**](https://github.com/keshviagg12/Infobot-Admission-Chatbot) | AI chatbot helping students with technical admission queries across Rajasthan. |
+| 🚑 **MedVault** | A secure healthcare platform integrating patient records with smart decision-making support. |
+| 🌱 **Bhumi - Soil Testing App** | ML-powered agricultural assistant for crop optimization and soil analysis. |
+| 🧠 **Diabetic Retinopathy Detection** | Deep learning-based medical diagnosis system using CNN & MobileNet. |
+| 🧭 **Infobot - Campus Navigation System** | Smart AI + hardware-based navigation system using sensors & automation. |
 
 ---
 
@@ -83,14 +78,31 @@
 
 ---
 
-## ☕ Support Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/keshviagarwal20" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <a href="https://linkedin.com/in/keshvi-agarwal-b48a53258" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:keshviagg20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/kesh12" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/o2wptuo4ti" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-  
+## ⚡ Fun Fact
+💡 *I don’t just write code… I design logic that powers silicon.*
+
+---
+
+## 🚀 Future Vision
+> "From writing code to designing chips — building the brains of tomorrow’s technology."
+
+---
