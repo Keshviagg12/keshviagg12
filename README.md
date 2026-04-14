@@ -64,8 +64,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshviagg12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshviagg12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=keshviagg12&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 
