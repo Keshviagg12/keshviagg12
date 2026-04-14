@@ -40,21 +40,24 @@
 - RTL Design  
 - Functional Verification  
 
-### 💻 Programming
-- Python  
-- C / Embedded C  
-- Java  
+### 💻 Programming & Hardware Languages
+- Verilog / SystemVerilog ⚡  
+- Python (Automation & Verification) 🐍  
+- C / Embedded C 🔧  
+- TCL (EDA Tool Scripting) 🛠️  
+ 
 
 ---
 
 ## 🧩 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🚑 **MedVault** | Secure platform for managing medical records |
-| 🌱 **Bhumi** | ML-powered soil testing & crop recommendation |
-| 🧠 **Diabetic Retinopathy Detection** | Deep learning-based diagnosis system |
-| 🧭 **Infobot** | AI + hardware-based campus navigation system |
+| Project | Domain | Description |
+|--------|--------|-------------|
+| 🔗 [**AXI Protocol Design & Implementation**](https://github.com/Keshviagg12/AXI-main) | VLSI / RTL | Designed and implemented AXI protocol with focus on high-performance on-chip communication and timing optimization |
+| 🔄 [**AHB to APB Bridge (UVM Verification)**](https://github.com/Keshviagg12/ahb-apb-bridge-uvm-verification) | VLSI / Verification | Developed and verified AHB-APB bridge using UVM methodology with testbench, assertions & coverage |
+| 🚦 [**AI Traffic Management System**](https://github.com/Keshviagg12/Ai_Traffic_Management_App) | AI + Embedded | Intelligent traffic system using AI for congestion control and optimization |
+| 🌱 [**BHUMI – Soil Testing App**](https://github.com/Keshviagg12/BHUMI) | ML / AgriTech | ML-powered crop recommendation system with soil analysis and multilingual support |
+
 
 ---
 
